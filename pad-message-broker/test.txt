@@ -1,6 +1,5 @@
 {"senderID":0,"type":0,"receivers":null,"message":"dima"}
 {"senderID":0,"type":6,"receivers":[1],"message":""}
-{"senderID":0,"type":3,"receivers":null,"message":"pidar"}
 {"senderID":0,"type":1,"receivers":[1],"message":"info"}
 {"senderID":0,"type":0,"receivers":null,"message":""}
 {"senderID":0,"type":0,"receivers":null,"message":"insoa"}
@@ -14,5 +13,3 @@
 {"senderID":0,"type":0,"receivers":null,"message":"inoda"}
 {"senderID":0,"type":6,"receivers":[1],"message":""}
 {"senderID":1,"type":3,"receivers":null,"message":"dima"}
-{"senderID":0,"type":1,"receivers":[2],"message":"dasfaga"}
-{"senderID":0,"type":1,"receivers":[3],"message":"agasgdsdg"}
