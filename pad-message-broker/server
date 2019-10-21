@@ -1,0 +1,1 @@
+ socat -d -d TCP-L:8080,reuseaddr,fork,crlf SYSTEM:"echo  \"\\\"HTTP/1.0 200 OK\\\nDocumentType: text/plain\\\n\\\ndate: \$\(date\)\\\nserver:\$SOCAT_SOCKADDR:\$SOCAT_SOCKPORT\\\nclient: \$SOCAT_PEERADDR:\$SOCAT_PEERPORT\\\nX-Foo: \$\(sleep 1\)\\\n\\\"\"; cat"
